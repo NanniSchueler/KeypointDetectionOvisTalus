@@ -1,1 +1,1 @@
-# KeypointDetectionOvisTalus
+# Keypoint Detection for Ovis Talus
